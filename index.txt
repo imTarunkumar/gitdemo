@@ -1,0 +1,4 @@
+"Q: What is Java?" 
+"A: Java is an object-oriented programming language." 
+"Q: Who created Java?" 
+"A: Java was created by James Gosling at Sun Microsystems." 
